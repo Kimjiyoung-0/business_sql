@@ -1,12 +1,12 @@
 
 /*
-bind º¯¼ö·Î file_id°ªÀ» ÁÖ¸é,
+bind ë³€ìˆ˜ë¡œ file_idê°’ì„ ì£¼ë©´,
 select * from DBA_EXTENTS;
-¿¡¼­ file_id°ªÀ» µ¿ÀÏÇÏ°Ô ¸ÂÃß°í,
+ì—ì„œ file_idê°’ì„ ë™ì¼í•˜ê²Œ ë§ì¶”ê³ ,
 owner = owner 
 SEGMENT_NAME
 SEGMENT_TYPE
-fragment = ¼ø¼­
+fragment = ìˆœì„œ
 startblock = BLOCK_ID
 endblcok = BLOCK_ID+BLOCKS-1 
 */
